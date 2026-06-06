@@ -35,3 +35,19 @@ The default gateway is the router's IP address on your local network. When your 
 DNS (Domain Name System) is like a phonebook for the internet. It translates human-readable domain names (e.g., `google.com`) into IP addresses (e.g., `142.250.195.46`) that computers understand. Without DNS, you'd have to type IPs to visit websites.
 ---
 ##Part C: Create a Basic Network Diagram
+
+![network digram](network%20digram%20tsk1.png)
+
+---
+
+## Part D: Network Connectivity Test
+
+### Commands Run (Windows)
+```cmd
+ipconfig
+ping google.com
+tracert google.com
+```
+
+### ipconfig Output
+
