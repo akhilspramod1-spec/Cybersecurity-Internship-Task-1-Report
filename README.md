@@ -55,7 +55,8 @@ tracert google.com
 ###ping output
 ![ping](ping%20tsk1.png)
 
-###ipconfig output 
+###ipconfig output
+![ipconfig](ipconfig%20tsk1.png)
 
 
 
