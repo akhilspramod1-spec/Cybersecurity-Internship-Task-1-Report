@@ -49,7 +49,14 @@ ping google.com
 tracert google.com
 ```
 
-### ipconfig Output
+### tracert output 
+![traceroute](traceroute%20tsk%201.png)
+
+###ping output
+![ping](ping%20tsk1.png)
+
+###ipconfig output 
+
 
 
 
